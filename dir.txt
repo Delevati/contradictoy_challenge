@@ -1,0 +1,12 @@
+contradictory_nlp/
+├── venv/
+├── run_model.py
+├── singleton_base.py
+├── bert-base-uncased/
+│   ├── config.json
+│   ├── pytorch_model.bin
+│   ├── tokenizer.json
+│   ├── vocab.txt
+│   └── ...
+└── data/
+    └── train.csv
